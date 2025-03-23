@@ -1,10 +1,10 @@
 ## how to use
-## 1
-Windows
+
+## Windows
 `` 
 pip install paramiko && GetNewIp.py 
 ``
-Linux
+## Linux
 ``
 pip install paramiko && python3 GetNewIp.py 
 ``
